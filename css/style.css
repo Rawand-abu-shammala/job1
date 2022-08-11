@@ -1,0 +1,53 @@
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    border: none;
+}
+
+body {
+    /* overflow-x: none; */
+    overflow-x: hidden;
+}
+
+.k {
+    background: url(../images/rectangle-bg.svg);
+}
+
+a.navbar-brand {
+    margin-left: 50px;
+    font-size: 25px;
+}
+
+
+a.nav-link:hover {
+    border-radius: 45%;
+    background-color: #eee;
+    color: blue;
+}
+
+ul {
+    margin-right: 50px;
+}
+
+.text-hero{
+    max-width: 500px;
+}
+
+.title {
+    font-size: 40px;
+}
+
+.text {
+    margin-left: 10px;
+}
+
+
+.navbar {
+    background: url(../images/footer-right-square.png);
+}
+
+.img-fluid {
+    width: 100%;
+    margin-left: 100px; 
+} 
